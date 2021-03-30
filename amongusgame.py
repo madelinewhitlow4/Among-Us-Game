@@ -1,7 +1,3 @@
-## there's a bug at the end the congrats prints twice
-## add simon says task
-## make sure during the tasks that it doesn't pick the same random int twice
-
 
 import random
 import json
